@@ -40,11 +40,11 @@
 First Open Termux App
 
 ```
-apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/saifalisew1508/Telegram-Members-Adder.git
+apt update && apt upgrade && pkg install -y git python && pkg update && pkg upgrade && pkg install python git && git clone https://github.com/M-N-A-STUDIO/Telegram-Scraper-.git
 ```
 
 ```
-cd Telegram-Members-Adder && ls
+cd Telegram-Scraper- && ls
 ```
 
 ```
